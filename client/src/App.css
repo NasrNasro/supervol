@@ -1,0 +1,32 @@
+.login{
+text-align: center;
+font-size: 1.3rem;
+font-weight: 600;
+margin: 0; 
+margin-top: 1rem;
+margin-bottom: 0.5rem;
+padding: 0 0 10px 0;
+color: #111111;
+}
+
+.text{
+    text-align: center;
+    color: #111111;
+    margin-top: 0;
+    margin-bottom: 1rem;
+    margin: 0px;
+    font-weight: 450;
+    font-size: 15px;
+    line-height: 24px;
+}
+
+.register{
+    text-align: center;
+    font-size: 1.3rem;
+    font-weight: 600;
+    margin: 0; 
+    margin-top: 1rem;
+    margin-bottom: 0.75rem;
+    padding: 0 0 10px 0;
+    color: #111111;
+}
